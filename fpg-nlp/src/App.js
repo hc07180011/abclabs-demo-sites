@@ -81,7 +81,7 @@ class App extends React.Component{
   data.append('keyword',this.state.keyword);
   console.log(page_num);
   var self = this;
-  axios.post("http://140.112.29.41:5000/search",data,config)
+  axios.post("http://140.112.29.204:5000/search",data,config)
     .then(function (response) {
       self.setState({
         data: response.data['data'],
@@ -129,7 +129,7 @@ class App extends React.Component{
   data.append('keyword',this.state.keyword);
   data.append('page',1);
   var self = this;
-  axios.post("http://140.112.29.41:5000/search",data,config)
+  axios.post("http://140.112.29.204:5000/search",data,config)
     .then(function (response) {
       self.setState({
         data: response.data['data'],

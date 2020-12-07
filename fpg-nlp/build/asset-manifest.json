@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fpg-nlp/static/css/main.ef2412c0.chunk.css",
+    "main.js": "/fpg-nlp/static/js/main.f876efc1.chunk.js",
+    "main.js.map": "/fpg-nlp/static/js/main.f876efc1.chunk.js.map",
+    "runtime-main.js": "/fpg-nlp/static/js/runtime-main.89444194.js",
+    "runtime-main.js.map": "/fpg-nlp/static/js/runtime-main.89444194.js.map",
+    "static/css/2.2a86faee.chunk.css": "/fpg-nlp/static/css/2.2a86faee.chunk.css",
+    "static/js/2.2e7f040a.chunk.js": "/fpg-nlp/static/js/2.2e7f040a.chunk.js",
+    "static/js/2.2e7f040a.chunk.js.map": "/fpg-nlp/static/js/2.2e7f040a.chunk.js.map",
+    "index.html": "/fpg-nlp/index.html",
+    "precache-manifest.f22020bc992ad80187681d098a1c4694.js": "/fpg-nlp/precache-manifest.f22020bc992ad80187681d098a1c4694.js",
+    "service-worker.js": "/fpg-nlp/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/fpg-nlp/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.ef2412c0.chunk.css.map": "/fpg-nlp/static/css/main.ef2412c0.chunk.css.map",
+    "static/js/2.2e7f040a.chunk.js.LICENSE.txt": "/fpg-nlp/static/js/2.2e7f040a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89444194.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.2e7f040a.chunk.js",
+    "static/css/main.ef2412c0.chunk.css",
+    "static/js/main.f876efc1.chunk.js"
+  ]
+}
